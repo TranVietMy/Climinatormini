@@ -1,0 +1,7 @@
+
+ipcc:
+  path: "data/ipcc/"
+  vectorstore: "vectorstore/ipcc.index"
+wmo:
+  path: "data/wmo/"
+  vectorstore: "vectorstore/wmo.index"
